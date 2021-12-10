@@ -22,6 +22,4 @@ A bootloader for PIC microcontrollers, that makes your USB capable PIC appear to
 - PIC18F26J53
 - PIC18F46J53
 - PIC18F27J53
-- PIC18F47J53
-  
-For more information visit the [Project Page](https://hackaday.io/project/63204-usb-c) on Hackaday.io.
+- PIC18F47J53,......
